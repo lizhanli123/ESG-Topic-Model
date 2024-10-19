@@ -1,5 +1,7 @@
+#Copy form **https://github.com/sijichun/CNEconDict**
 # CNEconDict（中文经济词典）
 适用于中文分词的经济金融词典
+
 
 该项目主要从各个不同的源头搜集经济、金融领域的专业词汇，主要包括如下几个方面的词汇：
 
